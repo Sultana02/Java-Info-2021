@@ -1,0 +1,183 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ejercicio5L2",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio5L2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio7L2",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio7L2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6L2",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio6L2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio5L5",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio5L5",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4L2",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio4L2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3L2",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio3L2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4L4",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio4L4",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3L3",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio3L3",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2L2",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio2L2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio1",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio3",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio4",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio5",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio5",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio6",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio7",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio7",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio8",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio8",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio9",
+            "request": "launch",
+            "mainClass": "LEVEL1.Ejercicio9",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1L2",
+            "request": "launch",
+            "mainClass": "LEVEL2.Ejercicio1L2",
+            "projectName": "Java-Info-2021_6cc3c38b"
+        },
+        {
+            "type": "java",
+            "name": "Launch HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplicacion",
+            "request": "launch",
+            "mainClass": "Multiplicacion"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosEnteros",
+            "request": "launch",
+            "mainClass": "NumerosEnteros"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pregunta",
+            "request": "launch",
+            "mainClass": "Pregunta"
+        },
+        {
+            "type": "java",
+            "name": "Launch calificacion",
+            "request": "launch",
+            "mainClass": "calificacion"
+        },
+        {
+            "type": "java",
+            "name": "Launch semana",
+            "request": "launch",
+            "mainClass": "semana"
+        }
+    ]
+}
