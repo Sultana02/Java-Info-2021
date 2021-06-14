@@ -1,6 +1,0 @@
-Carlos,Sanchez,1990-07-25,50000
-Luna,Gomez,1989-06-02,147000
-Esteban,Juarez,1996-05-04,800000
-Pedro,Hernandez,1980-10-07,400000
-Laura,Sanchez,1985-10-15,20000
-Samuel,Rodriguez,1990-12-16,60000
